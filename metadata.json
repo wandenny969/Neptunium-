@@ -1,0 +1,68 @@
+{
+  "name": "AVEX-NEXUS-001",
+  "description": "AVEX-NEXUS-001 Neptunium Framework. Post-Quantum Autonomous Systems. Entangled with AVSD 10,000 Qubits and teleportation from 23April3030",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "tools": [
+    {
+      "name": "Sovereign NFT Forge",
+      "apiName": "forgeSovereignNFT",
+      "parameters": {
+        "assetName": "Sovereign Genesis",
+        "authority": "Operator"
+      },
+      "description": "Menerjang satah rantaian kuantum untuk menempa NFT baru murni."
+    },
+    {
+      "name": "Nematocyst Control",
+      "apiName": "nematocystExecute",
+      "parameters": {
+        "command": "FLASH"
+      },
+      "description": "Menembak isyarat UDP dengan kelajuan sel penyengat hydra ke nod."
+    },
+    {
+      "name": "Void Extractor Scan",
+      "apiName": "runVoidExtraction",
+      "parameters": {},
+      "description": "Menyelaraskan qubits ke 0 Kelvin dan memulakan DEEP SCAN pada Void."
+    },
+    {
+      "name": "Quantum Wave Trigger",
+      "apiName": "triggerQuantumWave",
+      "parameters": {
+        "waveType": "GHZ Superposition",
+        "intensity": "0.97"
+      },
+      "description": "Pancaran gelombang koheren merentas satah siber-fizikal."
+    },
+    {
+      "name": "Deep Billion Sandbox Execution",
+      "apiName": "deepBillionExecute",
+      "parameters": {
+         "targetProtocol": "OmniNexus Guardian"
+      },
+      "description": "Engage Deep Billion Sandbox protocol to execute cell tools and node defenses."
+    },
+    {
+      "name": "System Upgrade & Reboot",
+      "apiName": "systemRebootUpgrade",
+      "parameters": {
+        "mode": "CELL_CALLBACK_UPGRADE",
+        "target": "ALL_SYSTEMS"
+      },
+      "description": "Execute cell callback logic, re-entangle qubits, upgrade all core systems, and reboot."
+    },
+    {
+      "name": "Sandbox Cell Callback",
+      "apiName": "rebuildSandboxCell",
+      "parameters": {
+        "action": "rebuildAllSystems",
+        "saveTarget": "metadata_sandbox"
+      },
+      "description": "Callback and call-tool function to save sandbox instances to metadata and completely rebuild the node."
+    }
+  ]
+}
